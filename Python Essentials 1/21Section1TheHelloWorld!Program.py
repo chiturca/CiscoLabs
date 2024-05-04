@@ -1,0 +1,41 @@
+#print("    *")
+#print("   * *")
+#print("  *   *")
+#print(" *     *")
+#print("***   ***")
+#print("  *   *")
+#print("  *   *")
+#print("  *****")
+
+#print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****")
+
+# print("    *"*2)
+# print("   * *"*2)
+# print("  *   *"*2)
+# print(" *     *"*2)
+# print("***   ***"*2)
+# print("  *   *"*2)
+# print("  *   *"*2)
+# print("  *****"*2)
+
+# print("    *")
+# print("   * *")
+# print("  *   *")
+# print(" *     *")
+# print("***   ***")
+# print("  *   *")
+# print("  *   *")
+# Print("  *****")
+
+# print("My\nname\nis\nBond.", end=" ")
+# print("James Bond.")
+
+# print(sep="&", "fish", "chips")
+
+# print('Greg\'s book.')
+# print("'Greg's book.'")
+# print('"Greg\'s book."')
+# print("Greg\'s book.")
+# print('"Greg's book."')
+
+# print("Greg's book.")
